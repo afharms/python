@@ -13,3 +13,5 @@ outfile = 'c:\\install\\' + remotefile
 #    ftp.retrbinary("RETR " + remotefile, file.write)
 
 ftp.quit()
+
+# test
