@@ -9,6 +9,8 @@ ftp.cwd('/Misc')
 remotefile = 'Delta Build 1207 Release.docx'
 outfile = 'c:\\install\\' + remotefile
 
+### Now I'm in your stuff!!!
+
 #with open(outfile, 'wb') as file:
 #    ftp.retrbinary("RETR " + remotefile, file.write)
 
