@@ -3,7 +3,7 @@
 import ftplib
 
 ftp = ftplib.FTP('ftp.cornerbakerycafe.com')
-ftp.login('xpient','Sheesfes52')
+ftp.login('uaser','pw')
 ftp.cwd('/Misc')
 
 remotefile = 'Delta Build 1207 Release.docx'
